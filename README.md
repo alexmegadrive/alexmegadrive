@@ -1,8 +1,7 @@
-### Приветствую 👋
-Меня зовут Александр Михайлов, я Frontend веб-разработчик. 
+### Hello, World! 👋
+My name is Alexander Mikhailov, I am a Frontend web developer.
 
-- ⚡ Мой опыт, полученный в разных IT сферах, позволяет мне с легкостью осваивать новые компетенции и разбираться в сложных задачах.
-За счет своей целеустремленности и ответственности я всегда довожу начатое дело до конца, а за счет стремления к улучшению и оптимизации, стараюсь привносить что-то новое в процессы, с которыми взаимодействую.
+- ⚡ My experience gained in various IT fields allows me to easily master new competencies and understand complex tasks.
+Due to my dedication and responsibility, I always finish what I started, and due to the desire for improvement and optimization, I try to bring something new to the processes with which I interact.
 
-- 💬 Помимо IT, увлекаюсь туризмом, наукой и техникой, финансами и экономикой, кинематографом и литературой (н/ф, история, психология). Веду здоровый образ жизни, стараюсь каждый день изучать что то новое.
-
+- 💬 In addition to IT, I am interested in tourism, science and technology, finance and economics, cinema and literature (Sci-fi, history, psychology). I live a healthy lifestyle, I try to learn something new every day.

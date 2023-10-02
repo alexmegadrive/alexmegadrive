@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-My name is Alexander Mikhailov, I am a Frontend web developer.
+My name is Alexander Mikhailov, I am Frontend web developer.
 
 - ⚡ My experience gained in various IT fields allows me to easily master new competencies and understand complex tasks.
 Due to my dedication and responsibility, I always finish what I started, and due to the desire for improvement and optimization, I try to bring something new to the processes with which I interact.
